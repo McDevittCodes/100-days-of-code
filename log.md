@@ -15,3 +15,11 @@
 **Thoughts:** Today I reviewed topics such as: arrays, push / pop & shift / unshift, functions, global & local scopes, boolean values, comparison operators, and else / else if statements. I feel confident in completing my review of Basic JavaScript tommorow. 
 
 **Link to work:** [Basic JavaScript: Stand in Line](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line/)
+
+### Day 3: October 17, 2018 
+
+**Today's Progress**: Updated my portfolio site by addding new projects and a footer. Spent some time on JavaScript switch statements.
+
+**Thoughts:** Took a bit of a detour and reworked my portfolio site today, which was much needed. Spent some time on switch statements, which was a new concept for me since I typically would use else if. 
+
+**Link to work:** [Portfolio](http://www.mcdevittcodes.com/)
