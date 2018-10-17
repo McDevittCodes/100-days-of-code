@@ -7,3 +7,11 @@
 **Thoughts:** I'm excited to get back into code. The Basic JavaScript problems are review, however I'm sure that will quickly change as I advance through the course. 
 
 **Link to work:** [Basic JavaScript: Word Blanks](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/word-blanks/)
+
+### Day 2: October 16, 2018 
+
+**Today's Progress**: Continued working on FreeCodeCamp’s JavaScript Algorithms and Data Structure certification. Just over two-thirds done with the Basic Javascript section.
+
+**Thoughts:** Today I reviewed topics such as: arrays, push / pop & shift / unshift, functions, global & local scopes, boolean values, comparison operators, and else / else if statements. I feel confident in completing my review of Basic JavaScript tommorow. 
+
+**Link to work:** [Basic JavaScript: Stand in Line](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line/)
