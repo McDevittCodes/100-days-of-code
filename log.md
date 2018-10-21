@@ -23,3 +23,20 @@
 **Thoughts:** Took a bit of a detour and reworked my portfolio site today, which was much needed. Spent some time on switch statements, which was a new concept for me since I typically would use else if. 
 
 **Link to work:** [Portfolio](http://www.mcdevittcodes.com/)
+
+### Day 4: October 18, 2018 
+
+**Today's Progress**: Survived another year.
+
+### Day 5: October 19, 2018 
+
+**Today's Progress**: Completed basic Javascript.
+
+**Thoughts:** Did not seem to forget anything despite it being a few months. I feel good about having the building blocks down and will focus on problem solving.
+
+**Link to work:** [Basic JavaScript: Use Multiple Conditional (Ternary) Operators](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators)
+
+
+
+
+
